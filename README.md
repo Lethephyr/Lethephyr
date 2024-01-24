@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🇨🇳 Bachelor's degree in information engineering from Southeast University
+- 🇨🇳 Bachelor's degree in Information Engineering from Southeast University
 - 🇸🇪 EECS exchange student at KTH Royal Institute of Technology
 
 <!--
