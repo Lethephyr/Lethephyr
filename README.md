@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🇨🇳 Bachelor student at Southeast University
-- 🇸🇪 EECS exchange student at KTH Royal Institute of Technology
+- 🇸🇪 Exchange student at KTH Royal Institute of Technology
 
 <!--
 **Lethephyr/Lethephyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
