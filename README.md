@@ -2,6 +2,7 @@
 
 - 🇨🇳 Bachelor student at Southeast University
 - 🇸🇪 Exchange student at KTH Royal Institute of Technology
+- 🇸🇪 Future master student at KTH Royal Institute of Technology
 
 - 🌱 I'm new to computer science and the code may not be all that elegant.
 
