@@ -4,8 +4,6 @@
 - 🇸🇪 Exchange student at KTH Royal Institute of Technology
 - 🇸🇪 Future master student at KTH Royal Institute of Technology
 
-- 🌱 I'm new to computer science and the code may not be all that elegant.
-
 <!--
 **Lethephyr/Lethephyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
