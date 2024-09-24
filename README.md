@@ -3,7 +3,7 @@
 - 🇨🇳 Bachelor student at Southeast University
 - 🇸🇪 Exchange student at KTH Royal Institute of Technology
 - 🇸🇪 Master student at KTH Royal Institute of Technology
-
+- 🚩 I play CTF with SUS | RoyalRoppers
 <!--
 **Lethephyr/Lethephyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
